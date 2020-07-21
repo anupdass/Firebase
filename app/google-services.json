@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "786992796250",
+    "firebase_url": "https://vua-news.firebaseio.com",
+    "project_id": "vua-news",
+    "storage_bucket": "vua-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786992796250:android:76fd82e6a436abf574fe63",
+        "android_client_info": {
+          "package_name": "com.example.eventwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786992796250-pkecbcd9ljmulvlfqi8v15jngfepltim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVe6Z38wueGukyravp25VplYe1UrxUyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786992796250-pkecbcd9ljmulvlfqi8v15jngfepltim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786992796250:android:69b8c8e1e62f8de674fe63",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786992796250-i8cfnoq4lvu0vk5g255q83n2kvgv39t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "0a08e6213be9c0b924cf834e99acf8f418415c90"
+          }
+        },
+        {
+          "client_id": "786992796250-pkecbcd9ljmulvlfqi8v15jngfepltim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVe6Z38wueGukyravp25VplYe1UrxUyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786992796250-pkecbcd9ljmulvlfqi8v15jngfepltim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
